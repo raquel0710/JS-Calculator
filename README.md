@@ -1,5 +1,5 @@
-# GRLY-Calculator  💖 
+# Calculadora em JS
 
-Minha versão de calculadora baseada no artigo de Doro Onome, https://www.section.io/engineering-education/building-a-calculator-a-javascript-project-for-beginners/.
+Calculadora criada baseada no artigo e instruções de Doro Onome,<br> https://www.section.io/engineering-education/building-a-calculator-a-javascript-project-for-beginners/.
 <br>
-Ela foi feita utilizando Javascript, CSS e HTML.  🥰 
+Ela foi feita utilizando Javascript, CSS e HTML. 
